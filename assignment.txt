@@ -9,7 +9,7 @@ https://app.clay.com/workspaces/325946/tables/t_GXVVVojyRWFd/views/gv_B3YfPXyNb6
 
 Loom recording.
 Data Analysis on Computer Game Companies - Watch Video
-
+https://www.loom.com/share/1d7c52875ae84b9da0607e693e57ffb1
 
 In this video, I analyze computer game companies by generating lists of companies, CEOs, and founders, along with their contact details and local restaurants. The tasks include compiling data on the companies, identifying CEOs and founders, obtaining email addresses, and finding local restaurants. No specific action is requested from the viewers.
 
